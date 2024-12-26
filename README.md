@@ -1,4 +1,4 @@
-# Hey there, I'm Ali! 👋
+# I'm Ali! 👋
 
 🎓 Fourth-year Software Engineering student at Carleton University, Ottawa.  
 💡 Passionate about creating impactful software and exploring cutting-edge technologies.  
