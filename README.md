@@ -1,15 +1,14 @@
 # I'm Ali! 👋
 
-🎓 Fourth-year Software Engineering student at Carleton University, Ottawa.  
-💡 Passionate about creating impactful software and exploring cutting-edge technologies.  
-🌱 Currently diving deep into software testing and full-stack development.  
-☕ Fun fact: I love coding with a cup of coffee and chill Lo-fi music!
+🎓 Fourth-year Software Engineering student at Carleton University, Ottawa.
+💡 Passionate about design patterns and object-oriented programming.
+☕ Fun fact: I enjoy coding with a cup of coffee!
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Survey Monkey Web App](https://github.com/AliAbdollahian/Survey-Monkey)
+### [Survey Monkey Web App]([https://github.com/AliAbdollahian/Survey-Monkey](https://github.com/JackieSL1/mini-survey-monkey.git))
 A mini-survey tool for collecting feedback.  
 - 🔧 Built with Java and Spring Boot  
 
