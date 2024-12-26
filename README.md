@@ -1,11 +1,11 @@
-# I'm Ali! 👋
+# Ali Abdollahian
 
 🎓 Fourth-year Software Engineering student at Carleton University, Ottawa.                                                                                                                                                                                                                                           
 💡 Passionate about design patterns and object-oriented programming.
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### [Survey Monkey Web App](https://github.com/JackieSL1/mini-survey-monkey.git)
 A mini-survey tool for collecting feedback.  
