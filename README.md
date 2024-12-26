@@ -1,6 +1,6 @@
 # I'm Ali! 👋
 
-🎓 Fourth-year Software Engineering student at Carleton University, Ottawa.
+🎓 Fourth-year Software Engineering student at Carleton University, Ottawa.                                                                                                                                                                                                                                           
 💡 Passionate about design patterns and object-oriented programming.
 
 ---
