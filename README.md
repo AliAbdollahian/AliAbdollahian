@@ -1,10 +1,7 @@
 # I'm Ali! 👋
 
 🎓 Fourth-year Software Engineering student at Carleton University, Ottawa.
-
 💡 Passionate about design patterns and object-oriented programming.
-
-☕ Fun fact: I enjoy coding with a cup of coffee, biking, and working out!
 
 ---
 
