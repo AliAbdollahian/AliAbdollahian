@@ -52,8 +52,8 @@ A mini-survey tool for collecting feedback.
 
 ## 📫 How to Reach Me
 
-- Email: [ali.abdollahian@example.com](mailto:ali.abdollahian@example.com)
-- LinkedIn: [Ali's LinkedIn](https://linkedin.com/in/AliAbdollahian)
+- Email: [ali.abdollahian@example.com](aliabdollahian@cmail.carleton.ca)
+- LinkedIn: [Ali's LinkedIn](https://www.linkedin.com/in/ali-abdollahian/)
 
 ---
 
