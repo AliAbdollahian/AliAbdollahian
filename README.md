@@ -29,7 +29,7 @@ A mini-survey tool for collecting feedback.
   GitHub
 
 - **Databases**:  
-  MySQL, Firebase
+  PostgreSQL and Firebase
 
 ---
 
@@ -54,11 +54,6 @@ A mini-survey tool for collecting feedback.
 
 - Email: [ali.abdollahian@example.com](aliabdollahian@cmail.carleton.ca)
 - LinkedIn: [Ali's LinkedIn](https://www.linkedin.com/in/ali-abdollahian/)
-
----
-
-## 📖 Dynamic Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!--
