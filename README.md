@@ -48,7 +48,7 @@ A mini-survey tool for collecting feedback.
 - 🔭 I’m currently working on my portfolio website.
 - 👨‍💻 I love working with Java and Swift.
 - 📚 Planning to pursue a Master's in Software Engineering.
-- ✨ Fun Fact: I enjoy playing chess!
+- ✨ Fun Fact: I enjoy biking and working out!
 
 ---
 
@@ -56,13 +56,6 @@ A mini-survey tool for collecting feedback.
 
 - Email: [ali.abdollahian@example.com](mailto:ali.abdollahian@example.com)
 - LinkedIn: [Ali's LinkedIn](https://linkedin.com/in/AliAbdollahian)
-- Portfolio: [My Website]
-
----
-
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AliAbdollahian&theme=radical)
 
 ---
 
