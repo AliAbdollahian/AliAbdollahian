@@ -41,12 +41,10 @@ A mini-survey tool for collecting feedback.
 
 ---
 
-## 📝 About Me
+##  About Me
 
 - 🔭 I’m currently working on my portfolio website.
-- 👨‍💻 I love working with Java and Swift.
 - 📚 Planning to pursue a Master's in Software Engineering.
-- ✨ Fun Fact: I enjoy biking and working out!
 
 ---
 
